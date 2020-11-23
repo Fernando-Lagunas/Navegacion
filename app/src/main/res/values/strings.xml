@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Navegacion</string>
+    <string name="btnSaludo">Saludar</string>
+    <string name="txtHint">Digite su nombre</string>
+</resources>
